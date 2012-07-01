@@ -1,0 +1,31 @@
+# ChangeLog for dev-perl/Math-Base36
+# Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Math-Base36/ChangeLog,v 1.6 2012/06/24 13:00:23 tove Exp $
+
+  24 Jun 2012; Torsten Veller <tove@gentoo.org> metadata.xml:
+  Update CPAN upstream info
+
+  04 Sep 2011; Torsten Veller <tove@gentoo.org> -Math-Base36-0.90.ebuild:
+  Cleanup
+
+*Math-Base36-0.90.0 (30 Aug 2011)
+
+  30 Aug 2011; Torsten Veller <tove@gentoo.org> +Math-Base36-0.90.0.ebuild:
+  Change version scheme
+
+  14 Jan 2011; Torsten Veller <tove@gentoo.org> -Math-Base36-0.07.ebuild:
+  Cleanup
+
+  12 Jan 2011; Torsten Veller <tove@gentoo.org> +Math-Base36-0.90.ebuild:
+  Version bump
+
+*Math-Base36-0.90 (12 Jan 2011)
+
+  12 Jan 2011; Torsten Veller <tove@gentoo.org> +Math-Base36-0.90.ebuild:
+  Version bump
+
+*Math-Base36-0.07 (22 Jul 2010)
+
+  22 Jul 2010; Torsten Veller <tove@gentoo.org> +Math-Base36-0.07.ebuild,
+  +metadata.xml:
+  Initial commit for DBIx-Class

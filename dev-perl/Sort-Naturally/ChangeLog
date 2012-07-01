@@ -1,0 +1,36 @@
+# ChangeLog for dev-perl/Sort-Naturally
+# Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/dev-perl/Sort-Naturally/ChangeLog,v 1.8 2012/06/24 12:58:35 tove Exp $
+
+  24 Jun 2012; Torsten Veller <tove@gentoo.org> metadata.xml:
+  Update CPAN upstream info
+
+*Sort-Naturally-1.30.0 (08 May 2012)
+
+  08 May 2012; Torsten Veller <tove@gentoo.org> +Sort-Naturally-1.30.0.ebuild:
+  Version bump
+
+  04 Sep 2011; Torsten Veller <tove@gentoo.org> -Sort-Naturally-1.02.ebuild:
+  Cleanup
+
+  03 Sep 2011; Torsten Veller <tove@gentoo.org> Sort-Naturally-1.20.0.ebuild:
+  Merge stable keywords from former version scheme ebuild
+
+*Sort-Naturally-1.20.0 (28 Aug 2011)
+
+  28 Aug 2011; Torsten Veller <tove@gentoo.org> +Sort-Naturally-1.20.0.ebuild:
+  Change version scheme
+
+  16 May 2010; Markos Chandras <hwoarang@gentoo.org>
+  Sort-Naturally-1.02.ebuild:
+  Stable on amd64 wrt bug #302033
+
+  22 Mar 2010; Pawel Hajdan jr <phajdan.jr@gentoo.org>
+  Sort-Naturally-1.02.ebuild:
+  x86 stable wrt bug #302033
+
+*Sort-Naturally-1.02 (05 Aug 2009)
+
+  05 Aug 2009; Markos Chandras <hwoarang@gentoo.org>
+  +Sort-Naturally-1.02.ebuild, +metadata.xml:
+  Initial commit for Sort-Naturally perl module
